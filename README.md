@@ -1,2 +1,2 @@
-# KDA-intereact
-my first(ig) website made for the intereact series
+# KDA
+A fan-made website for KDA, the virtual k-pop group
